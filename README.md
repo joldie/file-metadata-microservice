@@ -4,7 +4,13 @@ File metadata microservice
 
 ## Description
 
-...
+Service for displaying basic metadata to user of uploaded file.
+
+| Field  | Description                             |
+| ------ | --------------------------------------- |
+| `name` | Name of the file on the user's computer |
+| `type` | Mime type of the file                   |
+| `size` | Size of the file in bytes               |
 
 ## Contributing
 
